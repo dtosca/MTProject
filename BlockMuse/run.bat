@@ -14,6 +14,6 @@ IF exist %sdk_dir%\bin (
 goto exit
 
 :run
-%bin_path%\ScriptRunner.exe --dummy simple_player.js  
+%bin_path%\ScriptRunner.exe --dummy BlockMuse.js  
 
 :exit
